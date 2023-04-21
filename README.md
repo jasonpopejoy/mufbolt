@@ -1,4 +1,4 @@
-# muffbolt
+# mufbolt
 buffered multiple design files and gerbers for eurorack
 
 first eurorack design. this project was to help me learn kicad. 
